@@ -22,11 +22,6 @@
     <option name="myConnectionType" value="DEPLOYMENT_SERVER" />
     <option name="myConnectionId" value="24754ab2-7cae-4538-a4e2-fa61f477fd2b" />
   </component>
-  <component name="VagrantSettings">
-    <option name="instanceFolder" value="" />
-    <option name="provider" value="" />
-    <option name="vagrantExecutable" value="vagrant" />
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">
