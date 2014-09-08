@@ -48,5 +48,8 @@ RSpec.configure do |config|
   #     --seed 1234
   config.order = "random"
 
+  config.color_enabled = true
+  config.formatter = :documentation
+
   config.include Capybara::DSL
 end
